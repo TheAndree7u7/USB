@@ -13,6 +13,11 @@ public class Principal {
         String name = "Hello World";
         System.out.println(name);
 
+        // Tercer feature
+        int num3 = 5;
+        int num4 = 10;
+        int sum2 = num3 + num4;
+        System.out.println("The sum is: " + sum2);
     }
 
 }
